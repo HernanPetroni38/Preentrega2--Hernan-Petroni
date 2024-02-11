@@ -1,0 +1,14 @@
+div{
+    align-items: center;
+    width: 30%;
+    display: inline-block;
+}
+
+
+p{
+    margin-top: auto;
+    margin: auto;
+    text-align: center;
+    font: bolder;
+    color: aliceblue;
+}
